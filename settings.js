@@ -28,7 +28,7 @@ global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Cha-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -73,7 +73,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //—————「 Set Prefix 」—————//
 //gausah di apa² in!
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!',',','🐦','🐤','🗿']
 
 //—————「 Set Simbol 」—————//
 //terserah mai ubah atau nggak, note : tanda ' gausah di hapus!
